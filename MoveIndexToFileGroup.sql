@@ -8,6 +8,7 @@
 --WHERE TABLE_TYPE = 'BASE TABLE'
 --ORDER BY TABLE_SCHEMA, TABLE_NAME;
 ---------------------------------------------------------------------------------------------------------------
+
 SELECT 'EXEC MoveIndexToFileGroup '''
     +TABLE_CATALOG+''','''
     +TABLE_SCHEMA+''','''
