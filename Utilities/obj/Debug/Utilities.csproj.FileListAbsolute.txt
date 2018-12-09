@@ -1,0 +1,7 @@
+E:\TFS\OnlineHRS\Utilities\bin\Debug\Utilities.dll
+E:\TFS\OnlineHRS\Utilities\bin\Debug\Utilities.pdb
+E:\TFS\OnlineHRS\Utilities\bin\Debug\Newtonsoft.Json.dll
+E:\TFS\OnlineHRS\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+E:\TFS\OnlineHRS\Utilities\obj\Debug\Utilities.dll
+E:\TFS\OnlineHRS\Utilities\obj\Debug\Utilities.pdb
+E:\TFS\OnlineHRS\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache

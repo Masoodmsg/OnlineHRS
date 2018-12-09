@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineHRS", "OnlineHRS\OnlineHRS.csproj", "{EA66C4B7-8703-4036-A7E3-7BB4DF695BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{2EBB50F7-84A5-45D9-B84A-F4C22CB93AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineHRS.Business", "OnlineHRS.Business\OnlineHRS.Business.csproj", "{9F170506-EC62-476F-912B-9DA586AFD33F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlHelper", "SqlHelper\SqlHelper.csproj", "{0F4BD883-1D59-40B2-99E6-6BA4EA0B3396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA66C4B7-8703-4036-A7E3-7BB4DF695BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA66C4B7-8703-4036-A7E3-7BB4DF695BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA66C4B7-8703-4036-A7E3-7BB4DF695BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA66C4B7-8703-4036-A7E3-7BB4DF695BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBB50F7-84A5-45D9-B84A-F4C22CB93AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBB50F7-84A5-45D9-B84A-F4C22CB93AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBB50F7-84A5-45D9-B84A-F4C22CB93AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBB50F7-84A5-45D9-B84A-F4C22CB93AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F170506-EC62-476F-912B-9DA586AFD33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F170506-EC62-476F-912B-9DA586AFD33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F170506-EC62-476F-912B-9DA586AFD33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F170506-EC62-476F-912B-9DA586AFD33F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4BD883-1D59-40B2-99E6-6BA4EA0B3396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4BD883-1D59-40B2-99E6-6BA4EA0B3396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4BD883-1D59-40B2-99E6-6BA4EA0B3396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4BD883-1D59-40B2-99E6-6BA4EA0B3396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8691E34-D0EC-4FB7-938E-DA6A467F18B6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://onlinehrs.visualstudio.com/
+		SccProjectUniqueName0 = Utilities\\Utilities.csproj
+		SccProjectName0 = Utilities
+		SccAuxPath0 = https://onlinehrs.visualstudio.com
+		SccLocalPath0 = Utilities
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = OnlineHRS\\OnlineHRS.csproj
+		SccProjectName1 = OnlineHRS
+		SccAuxPath1 = https://onlinehrs.visualstudio.com
+		SccLocalPath1 = OnlineHRS
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = OnlineHRS.Business\\OnlineHRS.Business.csproj
+		SccProjectName2 = OnlineHRS.Business
+		SccAuxPath2 = https://onlinehrs.visualstudio.com
+		SccLocalPath2 = OnlineHRS.Business
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = SqlHelper\\SqlHelper.csproj
+		SccProjectName3 = SqlHelper
+		SccAuxPath3 = https://onlinehrs.visualstudio.com
+		SccLocalPath3 = SqlHelper
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

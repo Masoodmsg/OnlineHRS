@@ -1,0 +1,6 @@
+E:\TFS\OnlineHRS\SqlHelper\bin\Debug\SqlHelper.dll
+E:\TFS\OnlineHRS\SqlHelper\bin\Debug\SqlHelper.pdb
+E:\TFS\OnlineHRS\SqlHelper\obj\Debug\SqlHelper.csprojResolveAssemblyReference.cache
+E:\TFS\OnlineHRS\SqlHelper\obj\Debug\SqlHelper.csproj.CoreCompileInputs.cache
+E:\TFS\OnlineHRS\SqlHelper\obj\Debug\SqlHelper.dll
+E:\TFS\OnlineHRS\SqlHelper\obj\Debug\SqlHelper.pdb

@@ -1,0 +1,10 @@
+E:\TFS\OnlineHRS\OnlineHRS.Business\bin\Debug\OnlineHRS.Business.dll.config
+E:\TFS\OnlineHRS\OnlineHRS.Business\bin\Debug\OnlineHRS.Business.dll
+E:\TFS\OnlineHRS\OnlineHRS.Business\bin\Debug\OnlineHRS.Business.pdb
+E:\TFS\OnlineHRS\OnlineHRS.Business\bin\Debug\Newtonsoft.Json.dll
+E:\TFS\OnlineHRS\OnlineHRS.Business\bin\Debug\Utilities.dll
+E:\TFS\OnlineHRS\OnlineHRS.Business\bin\Debug\Utilities.pdb
+E:\TFS\OnlineHRS\OnlineHRS.Business\obj\Debug\OnlineHRS.Business.csprojResolveAssemblyReference.cache
+E:\TFS\OnlineHRS\OnlineHRS.Business\obj\Debug\OnlineHRS.Business.csproj.CoreCompileInputs.cache
+E:\TFS\OnlineHRS\OnlineHRS.Business\obj\Debug\OnlineHRS.Business.dll
+E:\TFS\OnlineHRS\OnlineHRS.Business\obj\Debug\OnlineHRS.Business.pdb
