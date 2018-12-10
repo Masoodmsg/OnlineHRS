@@ -10,5 +10,5 @@ GO
 EXEC sp_changedbowner 'sa'
 
 GO
-
+GO
 ALTER DATABASE OnlineHRS SET TRUSTWORTHY ON;
